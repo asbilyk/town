@@ -1,8 +1,9 @@
 {
 "name": "asbilyk/town",
-
+ "require": {},
 "autoload": {
 "classmap": ["town.php"]
 }
 
 }
+
